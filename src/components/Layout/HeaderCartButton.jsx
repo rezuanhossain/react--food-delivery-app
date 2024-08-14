@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import CartIcon from '../Cart/CartIcon';
 import classes from './HeaderCartButton.module.css';
 
