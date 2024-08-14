@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import classes from './Input.module.css';
 
 const Input = (props) => {

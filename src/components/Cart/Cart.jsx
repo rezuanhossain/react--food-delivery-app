@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable react/jsx-key */
 import Modal from '../UI/Modal';
 import classes from './Cart.module.css';
 

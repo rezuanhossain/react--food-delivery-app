@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import MealItemForm from './MealItemForm';
 import classes from './MealItem.module.css';
 
